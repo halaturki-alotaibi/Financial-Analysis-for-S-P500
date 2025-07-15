@@ -1,9 +1,9 @@
 # 🧮 Profit & Loss Analysis Across GICS Sectors in the S&P 500
 
-This project is a financial analysis I conducted using **Microsoft Excel** to explore profit and loss trends across the **GICS sectors** in the **S&P 500** index. It was part of my journey to develop and showcase my skills in data analysis and financial reporting.
+This project is a financial analysis I conducted using **Microsoft Excel and Tableau** to explore profit and loss trends across the **company and GICS sectors** in the **S&P 500** index. It was part of my journey to develop and showcase my skills in data analysis and financial reporting.
 
 ## 🎯 Objective
-The main goal of this project was to provide a clear and interactive overview of financial performance—revenue, cost, and operating expenses—across various sectors in the S&P 500. The dashboard allows users to **dynamically select a sector** and view key financial indicators over multiple years.
+The main goal of this project was to provide a clear and interactive overview of financial performance—revenue, cost, and operating expenses—across various sectors in the S&P 500. The dashboard allows users to **dynamically select a company tickersymboal and sector** and view key financial indicators over multiple years.
 
 ---
 
@@ -22,6 +22,7 @@ The main goal of this project was to provide a clear and interactive overview of
 
 - 📈 Used **charts** to display the relationship between revenues and COGS, revealing how they influence profit margins.
 
+- 📊 Built a fully interactive dashboard in **Tableau**
 ---
 
 ## 🔍 Key Insights
@@ -40,16 +41,16 @@ The main goal of this project was to provide a clear and interactive overview of
   - Sector selection interface
   - Dynamic financial KPIs
   - Visual dashboards
-
+- PDF for Tableau Dashboard
 ---
 
 ## 📌 Tools & Skills Used
 
-- Microsoft Excel (Power Functions, Charts, Conditional Formatting)
+- **Microsoft Excel** (Power Functions, Charts, Conditional Formatting)
 - Data Cleaning & Structuring
 - Financial Analysis & Visualization
 - Interactive Dashboard Design
-
+- **Tableau :** https://public.tableau.com/shared/SQKRG7PJP?:display_count=n&:origin=viz_share_link&:device=desktop
 ---
 
 ## 📬 Connect with Me
